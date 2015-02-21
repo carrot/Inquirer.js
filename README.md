@@ -184,6 +184,14 @@ Take `type`, `name`, `message`[, `default`, `filter`, `validate`] properties.
 
 ---
 
+#### Multi - `{ type: "multi" }`
+
+Take `type`, `name`, `message`[, `default`, `filter`, `validate`] properties.
+
+[Screenshot TK]
+
+---
+
 #### Password - `{ type: "password" }`
 
 Take `type`, `name`, `message`[, `default`, `filter`, `validate`] properties.
